@@ -1,0 +1,2 @@
+g++ -std=c++11 -pthread -o lab5 OSLab5.cpp
+We need -pthread to enable multithreading
